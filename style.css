@@ -126,7 +126,7 @@
 
 .list-input {
   width: 226px;
-  display: none
+  display: none;
 }
 
 .button.delete .img {
@@ -140,13 +140,13 @@
 
 /* Completed */
 #completed-tasks .list-label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 .edit-mode .list-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode .list-label {
