@@ -96,12 +96,10 @@
     padding: 20px 0;
     border-bottom: 1px solid #eee;
     list-style: none;
+    vertical-align: middle;
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-.list > * {
-    vertical-align: middle;
 }
 
 .checkbox {
