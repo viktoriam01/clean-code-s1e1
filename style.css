@@ -46,7 +46,7 @@
 }
 
 .ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
@@ -145,10 +145,10 @@
 }
 
 .edit-mode .list-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .list-label {
-  display:none;
+  display: none;
 }
